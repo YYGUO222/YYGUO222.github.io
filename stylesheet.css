@@ -29,7 +29,7 @@ body {
 /* Wrapper div controls width of entire layout */
 #wrapper {
     /* background-color: #e0d8c8; */
-    width: 45%;
+    width: 55%;
     min-width: 700px;
     max-width: 1200px;
     border: solid 1px #0f2c1a;
